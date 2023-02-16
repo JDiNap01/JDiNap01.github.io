@@ -4,4 +4,4 @@ This page reviews a couple of projects I am working on in my Bioinformatics/Bios
 
 ## Work with Penguins Data
 
-I started learning how to use R by working with a dataset involving Palmer Penguins. The analysis involved a small dataset involving 44 penguins. If you want to see my analysis, you can see it [here](https://github.com/JDiNap01/BioStatisticsAnalysis/blob/main/PalmerPenguins_Initial.html)
+I started learning how to use R by working with a dataset involving Palmer Penguins. The analysis involved a small dataset involving 44 penguins. If you want to see my analysis, you can see it [here](https://JDiNap01.github.io/BiostatisticsAnalysis/PalmerPenguins_Initial.html)
