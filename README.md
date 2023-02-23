@@ -5,3 +5,8 @@ This page reviews a couple of projects I am working on in my Bioinformatics/Bios
 ## Work with Penguins Data
 
 I started learning how to use R by working with a dataset involving Palmer Penguins. The analysis involved a small dataset involving 44 penguins. If you want to see my analysis, you can see it [here](https://JDiNap01.github.io/BioStatisticsAnalysis/PalmerPenguins_Initial.html) 
+
+
+## Work with Breed data 
+
+To learn about exploratory data and inference, I choose to analyze a dataset composed of 195 dog breeds and various traits associated with them. I created a hypothesis that the size of a dog breed correlated to the qualtiy of its relationship with young children. If you want to see my analysis, you can see it [here](https://JDiNap01.github.io/BioStatisticsAnalysis/BreedTraits.qmd) 
