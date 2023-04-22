@@ -11,7 +11,7 @@ I started learning how to use R by working with a dataset involving Palmer Pengu
 
 To learn about exploratory data and inference, I choose to analyze a dataset composed of 195 dog breeds and various traits associated with them. I created a hypothesis that the size of a dog breed correlated to the qualtiy of its relationship with young children. If you want to see my analysis, you can see it [here](https://JDiNap01.github.io/BioStatisticsAnalysis/BreedTraits.html) 
 
-#Origin of Replication Project
+## Origin of Replication Project
 
 To apply my knowledge of R Studio to Bioinformatics, I worked on challenges related to finding the Origin of Replication in the genome of E. Coli bacteria. I worked on the first five notebooks of the project. 
 
