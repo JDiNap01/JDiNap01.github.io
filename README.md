@@ -13,4 +13,6 @@ To learn about exploratory data and inference, I choose to analyze a dataset com
 
 #Origin of Replication Project
 
+To apply my knowledge of R Studio to Bioinformatics, I worked on challenges related to finding the Origin of Replication in the genome of E. Coli bacteria. I worked on the first five notebooks of the project. 
+
 [here](https://JDiNap01.github.io/BioStatisticsAnalysis/BIO4ST1_Group4/Replication_Joshua_DiNapoli.html) 
