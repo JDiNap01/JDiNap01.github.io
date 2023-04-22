@@ -10,3 +10,7 @@ I started learning how to use R by working with a dataset involving Palmer Pengu
 ## Work with Breed data 
 
 To learn about exploratory data and inference, I choose to analyze a dataset composed of 195 dog breeds and various traits associated with them. I created a hypothesis that the size of a dog breed correlated to the qualtiy of its relationship with young children. If you want to see my analysis, you can see it [here](https://JDiNap01.github.io/BioStatisticsAnalysis/BreedTraits.html) 
+
+#Origin of Replication Project
+
+[here]https://JDiNap01.github.io/BioStatisticsAnalysis/BIO4ST1_Group4/Replication_Joshua_DiNapoli.html) 
